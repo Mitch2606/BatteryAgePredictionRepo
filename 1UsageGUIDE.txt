@@ -1,0 +1,8 @@
+Hello, here is a small tutorial on ettiquitte when using a github repo. 
+
+1 - NEVER work on the same branch
+	Ex. If you want to add a feature. Create a new branch (ctrl+shift+N) and name it according to what the feature is.
+	Ex. I want a function to normalize the data. I'd create a new branch named "Normalize-Data-Function"
+
+2 - Try to Commit is present tense
+	Ex. I just updated the code to loop three times instead of four. The Commit title would be "Update LoopFile to three Loops"
